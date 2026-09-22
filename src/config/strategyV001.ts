@@ -43,7 +43,7 @@ export const STRATEGY_V_001_CONFIG: StrategyV001Config = {
   timer_ms: 200,
 
   rule_1_enabled: true,
-  rule_1_size_sol: 0.2,
+  rule_1_size_sol: 0.4,
   rule_1_watch_s: 5.5,
   rule_1_entry_max_s: 12,
   rule_1_watch_max_end: 0.28,
